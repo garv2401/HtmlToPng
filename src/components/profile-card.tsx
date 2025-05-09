@@ -51,7 +51,7 @@ export default function ProfileCard() {
             />
           </div>
 
-          <h2 className="text-xl font-bold">Garvit Kumar</h2>
+          <h2 className="text-xl font-bold">Garvit Shrivastav</h2>
           <p className="text-gray-500 mb-2">Web Developer</p>
 
           <div className="flex space-x-3 mb-4">
